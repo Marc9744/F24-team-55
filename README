@@ -40,6 +40,7 @@ Repository Setup
 ================
 
 1. Work on the labs with your project group.
+   - You can find your project group in Canvas under People > Groups > Project Group
 
 2. Clone this repo.
 
@@ -47,12 +48,12 @@ Repository Setup
    organization.  Name your repo `TYY-team-TEAMNAME`, where,
    - `T` is one character for the term: `f` Fall or `s` for Spring,
    - `YY` is the two digit year, e.g. `19` for 2019,
-   - `TEAMNAME` is a name for your team.
+   - `TEAMNAME` is a name for your team; your team name doesn't necessary have to match your project group name from Canvas.
 
 4. Give all team members access to the team repo in the course github
    organization.
 
-5. Add all team members' names and CWIDs to the `AUTHORS` file.
+5. Add your team's project group number from Canvas (e.g., Group 1) and all team members' names and CWIDs to the `AUTHORS` file.
 
 6. Change the "origin" remote for your cloned repo to your newly
    created team repo and push.
